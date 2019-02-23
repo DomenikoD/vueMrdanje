@@ -1,2 +1,0 @@
-# vueMrdanje
-Created with CodeSandbox
